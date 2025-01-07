@@ -5,7 +5,6 @@ This repository contains my solutions to problems on LeetCode. I am using this a
 ## Table of Contents
 
 - [Overview](#overview)
-- [Solutions](#solutions)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
 - [License](#license)
