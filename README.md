@@ -35,6 +35,11 @@ This repository is licensed under the MIT License.
 2 | [Add Two Numbers](https://leetcode.com/problems/two-sum/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Linked%20List/2_Add_Two_Numbers.cpp) | | | Medium |  Linked List <br> Math <br> Recursion
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Math%20/7_Reverse_Integer.cpp) | | | Medium | Math
 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Math%20/12_Integer_to_Roman.cpp) | | | Medium | Hash Table <br>  Math <br> String
+13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Hash%20Table/12_Integer_to_Roman.cpp) | | | Easy | Hash Table <br> Math <br> String
+19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Linked%20List/19_Remove_Nth_Node_From_End_of_List.cpp) | | | Medium | Linked List <br> Two Pointers
+21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Linked%20List/21_Merge_Two_Sorted_Lists.cpp) | | | Medium | Linked List <br> Recursion
+29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Math%20/29_Divide_Two_Integers.cpp) | | | Medium | Math <br> Bit Manipulation
+
 <div align="right">
     <b><a href="#LeetCode-Solution">⬆️ Back to Top</a></b>
 </div>
