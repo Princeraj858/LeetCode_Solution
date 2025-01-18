@@ -27,3 +27,14 @@ Feel free to fork this repository and submit your own solutions. If you'd like t
 ## License
 
 This repository is licensed under the MIT License.
+
+## Bit Manipulation
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
+1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Array/1_Two_Sum.c) | | | |  Array <br> Hash Table
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
