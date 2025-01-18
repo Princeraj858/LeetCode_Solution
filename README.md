@@ -38,6 +38,10 @@ This repository is licensed under the MIT License.
 | 19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Linked%20List/19_Remove_Nth_Node_From_End_of_List.cpp) | O(n) | O(1) | ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) | Linked List, Two Pointers |
 | 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Linked%20List/21_Merge_Two_Sorted_Lists.cpp) | O(n) | O(1) | ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) | Linked List, Recursion |
 | 29  | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Math%20/29_Divide_Two_Integers.cpp) | O(log n) | O(1) | ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) | Math, Bit Manipulation |
+| 43  | [Multiply Strings](https://leetcode.com/problems/multiply-strings/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Math%20/43_Multiply_Strings.cpp) |  | | ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) | Math, String, Simulation |
+| 48  | [Multiply Strings](https://leetcode.com/problems/rotate-image/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Math%20/48_Rotare_Image.cpp) |  | | ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) |Array, Math, Matrix |
+| 50  | [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Math%20/50_Pow(x%2Cn).cpp) |  | | ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) |Array, Math, Recursion |
+
 
 <div align="right">
     <b><a href="#LeetCode-Solution">⬆️ Back to Top</a></b>
