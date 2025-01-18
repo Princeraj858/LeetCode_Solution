@@ -28,13 +28,14 @@ Feel free to fork this repository and submit your own solutions. If you'd like t
 
 This repository is licensed under the MIT License.
 
-## Bit Manipulation
+## Problemset
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|
-1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Array/1_Two_Sum.c) | | | |  Array <br> Hash Table
-
-<br/>
+1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Array/1_Two_Sum.c) | | | Easy |  Array <br> Hash Table
+2 | [Add Two Numbers](https://leetcode.com/problems/two-sum/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Linked%20List/2_Add_Two_Numbers.cpp) | | | Medium |  Linked List <br> Math <br> Recursion
+7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Math%20/7_Reverse_Integer.cpp) | | | Medium | Math
+12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Math%20/12_Integer_to_Roman.cpp) | | | Medium | Hash Table <br>  Math <br> String
 <div align="right">
-    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+    <b><a href="#LeetCode-Solution">⬆️ Back to Top</a></b>
 </div>
 <br/>
