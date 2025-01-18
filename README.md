@@ -1,6 +1,7 @@
-# LeetCode-Solution
+# <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" height="50" width="70"> LeetCode Solutions
 
-This repository contains my solutions to problems on LeetCode. I am using this as a practice tool to enhance my problem-solving skills.
+
+Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems. It's a great place to explore my problem-solving approach and improve your coding skills along with me.
 
 ## Table of Contents
 
@@ -12,7 +13,7 @@ This repository contains my solutions to problems on LeetCode. I am using this a
 
 ## Overview
 
-This repository holds my solutions to LeetCode problems across various difficulty levels (Easy, Medium, Hard). The solutions are written in C++, and each file is named based on the problem number and name.
+In this repository, I share my solutions to LeetCode problems, categorized by difficulty (Easy, Medium, Hard). I aim to cover a variety of problem types including data structures, algorithms, dynamic programming, and more. My solutions are implemented in C++ for their efficiency and performance, and each file is named based on the problem number and name.
 
 ## Technologies
 
@@ -21,7 +22,23 @@ This repository holds my solutions to LeetCode problems across various difficult
 
 ## Contributing
 
-Feel free to fork this repository and submit your own solutions. If you'd like to contribute or suggest any improvements, please create an issue or pull request.
+Feel free to fork this repository and submit your own solutions! You can also suggest improvements, optimizations, or better approaches by opening an issue or creating a pull request.
+
+How to contribute:
+
+1. Fork the repository
+2. Create a new branch for your feature or fix
+3. Commit your changes
+4. Push to the branch
+5. Open a pull request
+
+## Additional Notes
+
+- Time and space complexities are provided for every problem to understand the efficiency of the solutions.
+- The repository includes problems from various categories like Array, Linked List, Math, Hash Table, and more.
+- Feel free to open issues or contribute improvements.
+
+---
 
 ## License
 
@@ -47,15 +64,6 @@ This repository is licensed under the MIT License.
     <b><a href="#LeetCode-Solution">⬆️ Back to Top</a></b>
 </div>
 
-## Additional Notes
 
-- Each solution is implemented with clear comments explaining the logic behind it.
-- Time and space complexities are provided for every problem to understand the efficiency of the solutions.
-- The repository includes problems from various categories like Array, Linked List, Math, Hash Table, and more.
-- Feel free to open issues or contribute improvements.
 
----
 
-### License
-
-This repository is licensed under the MIT License.
