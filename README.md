@@ -81,7 +81,7 @@ This repository is licensed under the MIT License.
 | 2661  | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/description) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Array/2661_First_Completely_Painted_Row_or_Column.cpp) | O(M*N)  | O(M*N) | ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) |Array, Hash Table, Matrix|
 | 2683  | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Array/2683_Neighboring_Bitwise_XOR.cpp) | | O(N) | ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) |Array, Bit Manipulation |
 | 2948  | [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Array/2948_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.cpp) | O(NLogN) | O(N) | ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) |Array, Bit Manipulation |
-
+| 3151  | [Special Array I](https://leetcode.com/problems/special-array-i/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Array/3151_Special_Array_I.cpp) | O(N) | O(1) | ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green) |Array |
 
 <div align="right">
     <b><a href="#LeetCode-Solution">⬆️ Back to Top</a></b>
