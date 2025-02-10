@@ -88,6 +88,7 @@ This repository is licensed under the MIT License.
 | 2948  | [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Array/2948_Make_Lexicographically_Smallest_Array_by_Swapping_Elements.cpp) | O(NLogN) | O(N) | ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-yellow) |Array, Bit Manipulation |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Array/3105_Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray.cpp) | O(N) | O(1) | ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green) |Array |
 | 3151  | [Special Array I](https://leetcode.com/problems/special-array-i/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/Array/3151_Special_Array_I.cpp) | O(N) | O(1) | ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green) |Array |
+| 3174  | [Clear Digits](https://leetcode.com/problems/clear-digits/description/) | [C++](https://github.com/KanishkRajTech/LeetCode_Solution/blob/main/String/3174_Clear_Digits.cpp) | O(N) | O(N) | ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-green) | String, Stack, Simulation |
 
 <div align="right">
     <b><a href="#LeetCode-Solution">⬆️ Back to Top</a></b>
