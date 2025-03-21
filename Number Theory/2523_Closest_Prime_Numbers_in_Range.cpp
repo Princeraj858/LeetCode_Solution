@@ -4,7 +4,7 @@ class Solution {
     
             int limit = right;
             vector<bool> isPrime(limit + 1, true);
-            isPrime[0] = isPrime[1] = false; 
+            isPrime[0] = iPrime[1] = false; 
             
             for (int i = 2; i * i <= limit; i++) {
                 if (isPrime[i]) {
